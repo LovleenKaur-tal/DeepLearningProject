@@ -6,7 +6,7 @@ Access data from Google Drive: https://drive.google.com/drive/folders/1wS0FxJR3F
 
 We have created two models: model 1-LSTM.ipynb is LSTM implementation and model 2-Transformer.ipynb is Transformers implementation.
 
-##Instructions
+## Instructions
 
 Please download these ‘.ipynb’ notebooks and run on Kaggle as follows:
 
